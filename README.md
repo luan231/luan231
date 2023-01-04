@@ -1,5 +1,15 @@
-### Hi there 👋
+<h3 align="center">Hi there 👋</h3>
 
+<p align="center">
+Hello! I'm Gabriel and i like to develop things sometimes.<br>
+__________________________________________________________<br><br>
+
+<img src="https://img.shields.io/badge/Python-beginner-green" />
+
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-beginner-blue"/>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=luan231&show_icons=true&theme=tokyonight" />
+</p>
 <!--
 **luan231/luan231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
